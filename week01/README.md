@@ -25,4 +25,4 @@ class, how we can think about visualization, and our first assignment.
    * Computational methods should include source code
 
 Send a PDF of this, and in addition bring a printed copy to class next week to
-turn in.
+turn in.  In this directory is [an example submission](example_assignment.md).
