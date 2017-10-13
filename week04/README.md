@@ -1,4 +1,4 @@
-# Week 3 - Weights, Histograms, and Binning
+# Week 4 - Weights, Histograms, and Binning
 
 This week included a presentation from Dr. Jill Naiman about her work on
 visualization.  We then discussed different methods of histogramming and
